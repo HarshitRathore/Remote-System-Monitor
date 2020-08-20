@@ -1,0 +1,3 @@
+GPUtil==1.4.0
+psutil==5.7.2
+tornado==6.0.4
